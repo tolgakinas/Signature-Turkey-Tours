@@ -1,0 +1,6 @@
+{
+  "name": "Signature Turkey Tours",
+  "description": "Premier private & bespoke luxury tours across Turkey: Istanbul, Cappadocia, Ephesus, Pamukkale, Turquoise Coast & beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
